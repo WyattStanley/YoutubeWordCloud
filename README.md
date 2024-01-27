@@ -9,16 +9,16 @@ Geog358
 <h3>
     North American/Seattle WA Word Cloud:
 </h3>
-Located in Assets Folder.
+Located in Image Folder.
 
-<img src="assets/NorthAmerica.png">
+<img src="img/NorthAmerica.png">
 
 <h3>
     Europe/Zurich CH Word Cloud:
 </h3>
-Located in Assets Folder.
+Located in Image Folder.
 
-<img src="assets/Europe.png">
+<img src="img/Europe.png">
 
 
 <h3>
