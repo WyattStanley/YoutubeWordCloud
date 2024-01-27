@@ -18,7 +18,7 @@ Located in Assets Folder.
 </h3>
 Located in Assets Folder.
 
-<img src="assets/europe.png">
+<img src="assets/Europe.png">
 
 
 <h3>
